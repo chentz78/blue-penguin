@@ -57,7 +57,7 @@ table {
 }
 
 body {
-    font-family: Georgia, serif;
+    font-family: Helvetica, sans-serif;
     font-size: 16px;
     line-height: 1.5em;
     color: #444;
@@ -83,7 +83,7 @@ ol {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: sans-serif;
+    font-family: Verdana, sans-serif;
     font-weight: bold;
 }
 h1, h2, h3 {
@@ -279,6 +279,9 @@ header h2 {
 
 #content {
     margin-top: 3em;
+    font-family: Geneva, sans-serif; /* https://www.w3schools.com/cssref/css_websafe_fonts.asp */
+    /*font-family: serif;*/
+    font-size: 17px;
 }
 
 .pages {
